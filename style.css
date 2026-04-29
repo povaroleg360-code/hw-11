@@ -5,4 +5,5 @@ div{
   margin-bottom: 30px;
   border: 2px dashed red;
   background-color: green;
+  box-sizing: border-box;
 }
